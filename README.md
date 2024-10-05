@@ -7,4 +7,4 @@ Bem vindo ao material do minicurso de Docker.
 
 - No arquivo `docker-commands.md`, você vai encontrar os comandos usados para ensinar sobre imagens e containers.
 
-
+- Se você **gostou** deste material, por favor, **dê uma star** ao repositório!
